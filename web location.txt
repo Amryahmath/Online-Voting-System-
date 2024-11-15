@@ -1,0 +1,5 @@
+Sql == http://localhost:8080/phpmyadmin/index.php?route=/database/structure&db=votingsystem
+
+Admin page == http://localhost:8080/votingsystem/admin/index.php
+
+voters page == http://localhost:8080/votingsystem/
