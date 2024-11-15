@@ -18,7 +18,5 @@
 
 7.Run the script http://localhost/votingsystem
 
-username  admin
-password  password
 
-Brought to you by: www.alphacodecamp.com.ng
+
