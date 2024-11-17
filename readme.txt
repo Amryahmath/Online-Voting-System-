@@ -4,7 +4,7 @@
 
 3"voting management system"
 
-4. Download the zip file/ download winrar
+
 
 5. Extract the file and copy "voting management system" folder
 
