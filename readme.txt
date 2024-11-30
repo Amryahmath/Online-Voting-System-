@@ -4,7 +4,7 @@
 
 3"voting management system"
 
-
+4. Download the zip file/ download winrar
 
 5. Extract the file and copy "voting management system" folder
 
@@ -17,6 +17,4 @@
 6. Import votingsystem.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/votingsystem
-
-
 
